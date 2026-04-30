@@ -43,8 +43,8 @@ I am a dedicated technical specialist based in **Setabganj, Dinajpur**. I bridge
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdrifathossainpersonal&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrifathossainpersonal&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevRifat-code&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRifat-code&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
